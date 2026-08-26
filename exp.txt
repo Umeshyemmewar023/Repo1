@@ -1,0 +1,3 @@
+Hello
+
+git add: Adds the file into tracking state.
