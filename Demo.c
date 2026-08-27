@@ -9,6 +9,7 @@ int main()
     int b=20;
 
     printf("Addiction is %d",a+b);
+    printf("Substraction is : %d", a-b);
 
     return 0;
 }
