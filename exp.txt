@@ -1,3 +1,5 @@
 Hello
 
 git add: Adds the file into tracking state.
+git branch filename : to create branch
+git switch branchname : to switch between branches
