@@ -1,5 +1,17 @@
 Hello
 
+git init: initalizes the new repository in the current folder
+git status: shows the current status of your files and repository
 git add: Adds the file into tracking state.
-git branch filename : to create branch
-git switch branchname : to switch between branches
+git add . : stages all the files into the tracking state
+git commit -m "message" : saves a staged changes as a new version in history
+git log: shows all the commit hostory
+git log --oneline: shows the history in compat format
+git diff : shows the changes that you have made
+git restore <filename> : discards the changes in the file and restores
+git restore --staged<file>: removes a file from staging while keeping its changes
+
+git branch <name> : to create branch
+git switch <branchname> : to switch between branches
+git switch -c <name>: creates and switches to that branch
+git merge <name> : combines the specified branch to the current branch
