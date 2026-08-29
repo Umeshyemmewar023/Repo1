@@ -5,6 +5,8 @@ int main()
     printf("Hello World!");
     printf("Hello from Umesh Yemmewar");
 
+    printf("Mathematical Operations: ");
+
     int a=10;
     int b=20;
 
