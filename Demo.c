@@ -5,7 +5,7 @@ int main()
     printf("Hello World!");
     printf("Hello from Umesh Yemmewar");
     printf("I am learning github desktop");
-    printf("Checking the differnce b/w merge & rebase");
+    printf("Checking the merge conflict");
 
     printf("Mathematical Operations: ");
     
